@@ -1,0 +1,22 @@
+{
+  "source_video": "matos_sample_talk",
+  "rendered_at": "2026-10-29T19:37:09.161360+00:00",
+  "crop_mode_default": "pad_blur",
+  "total_rendered": 1,
+  "rendered_clips": [
+    {
+      "clip_id": "short_candidate_01",
+      "candidate_id": "candidate_01",
+      "start_time": 9.39,
+      "end_time": 30.88,
+      "duration_seconds": 21.5,
+      "resolution": "1080x1920",
+      "crop_mode": "pad_blur",
+      "approval_status": "approved",
+      "reviewed_by": "test_harness",
+      "review_timestamp": "2026-10-29T19:37:03.529577+00:00",
+      "mp4_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\rendered\\candidate_01_short.mp4",
+      "file_size_bytes": 958054
+    }
+  ]
+}

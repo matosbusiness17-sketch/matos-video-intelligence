@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,120
+Welcome to the Modo's Video Intelligence Demonstration.
+
+2
+00:00:04,150 --> 00:00:08,290
+In this episode, we are testing automated local AI video analysis.
+
+3
+00:00:09,390 --> 00:00:14,030
+Notice that the chart on the screen shows a 45% increase in video engagement.
+
+4
+00:00:15,090 --> 00:00:19,670
+The key to retaining short form viewers is an irresistible hook in the first three seconds.
+
+5
+00:00:20,590 --> 00:00:25,630
+Our pipeline processes speech with faster whisper and extracts keyframes with open CV.
+
+6
+00:00:25,820 --> 00:00:30,880
+Finally, we package everything cleanly for N8 and workflow integration.

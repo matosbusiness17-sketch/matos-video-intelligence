@@ -1,0 +1,56 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python & Testing Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.log
+
+# Third-Party Downloaded Media & Private Production Outputs
+downloads/
+outputs/the_balance_theory_morning_motivation/
+outputs/matos_podcast_demo/
+outputs/*/rendered/
+outputs/*.jpg
+scratch/
+
+# Raw audio/video binaries (exclude all video/audio except the synthetic test fixture)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.aac
+!test_media/matos_sample_talk.mp4
+
+# Model weights & caches
+models/
+*.model
+*.bin
+
+# Sensitive Credentials
+.env
+.env.*
+*.key
+*.token
+*.pem
+*.credentials
+
+# IDE & OS Artifacts
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store

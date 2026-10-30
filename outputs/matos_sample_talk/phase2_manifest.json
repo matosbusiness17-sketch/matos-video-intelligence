@@ -1,0 +1,702 @@
+{
+  "video_metadata": {
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\test_media\\matos_sample_talk.mp4",
+    "file_name": "matos_sample_talk.mp4",
+    "file_size_bytes": 776711,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "duration_seconds": 31.859,
+    "video_stream": {
+      "codec_name": "h264",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30.0,
+      "duration_seconds": 31.833,
+      "bitrate": 98792
+    },
+    "audio_stream": {
+      "codec_name": "aac",
+      "channels": 1,
+      "sample_rate": 22050,
+      "duration_seconds": 31.859,
+      "bitrate": 89264
+    },
+    "has_video": true,
+    "has_audio": true
+  },
+  "transcript": {
+    "language": "en",
+    "duration_seconds": 31.859,
+    "device_used": "cpu",
+    "compute_type": "int8",
+    "model_name": "tiny",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 3.12,
+        "text": "Welcome to the Modo's Video Intelligence Demonstration.",
+        "words": [
+          {
+            "word": "Welcome",
+            "start": 0.0,
+            "end": 0.48,
+            "probability": 0.74
+          },
+          {
+            "word": "to",
+            "start": 0.48,
+            "end": 0.76,
+            "probability": 0.988
+          },
+          {
+            "word": "the",
+            "start": 0.76,
+            "end": 0.88,
+            "probability": 0.97
+          },
+          {
+            "word": "Modo's",
+            "start": 0.88,
+            "end": 1.3,
+            "probability": 0.715
+          },
+          {
+            "word": "Video",
+            "start": 1.3,
+            "end": 1.6,
+            "probability": 0.495
+          },
+          {
+            "word": "Intelligence",
+            "start": 1.6,
+            "end": 2.2,
+            "probability": 0.861
+          },
+          {
+            "word": "Demonstration.",
+            "start": 2.2,
+            "end": 3.12,
+            "probability": 0.883
+          }
+        ],
+        "avg_logprob": -0.216,
+        "no_speech_prob": 0.012
+      },
+      {
+        "id": 1,
+        "start": 4.15,
+        "end": 8.29,
+        "text": "In this episode, we are testing automated local AI video analysis.",
+        "words": [
+          {
+            "word": "In",
+            "start": 4.15,
+            "end": 4.23,
+            "probability": 0.983
+          },
+          {
+            "word": "this",
+            "start": 4.23,
+            "end": 4.49,
+            "probability": 1.0
+          },
+          {
+            "word": "episode,",
+            "start": 4.49,
+            "end": 4.97,
+            "probability": 0.997
+          },
+          {
+            "word": "we",
+            "start": 5.47,
+            "end": 5.61,
+            "probability": 0.975
+          },
+          {
+            "word": "are",
+            "start": 5.61,
+            "end": 5.77,
+            "probability": 0.991
+          },
+          {
+            "word": "testing",
+            "start": 5.77,
+            "end": 6.19,
+            "probability": 0.99
+          },
+          {
+            "word": "automated",
+            "start": 6.19,
+            "end": 6.69,
+            "probability": 0.644
+          },
+          {
+            "word": "local",
+            "start": 6.69,
+            "end": 7.05,
+            "probability": 0.528
+          },
+          {
+            "word": "AI",
+            "start": 7.05,
+            "end": 7.33,
+            "probability": 0.857
+          },
+          {
+            "word": "video",
+            "start": 7.33,
+            "end": 7.65,
+            "probability": 0.731
+          },
+          {
+            "word": "analysis.",
+            "start": 7.65,
+            "end": 8.29,
+            "probability": 0.994
+          }
+        ],
+        "avg_logprob": -0.216,
+        "no_speech_prob": 0.012
+      },
+      {
+        "id": 2,
+        "start": 9.39,
+        "end": 14.03,
+        "text": "Notice that the chart on the screen shows a 45% increase in video engagement.",
+        "words": [
+          {
+            "word": "Notice",
+            "start": 9.39,
+            "end": 9.61,
+            "probability": 0.982
+          },
+          {
+            "word": "that",
+            "start": 9.61,
+            "end": 9.91,
+            "probability": 0.997
+          },
+          {
+            "word": "the",
+            "start": 9.91,
+            "end": 10.05,
+            "probability": 0.994
+          },
+          {
+            "word": "chart",
+            "start": 10.05,
+            "end": 10.29,
+            "probability": 0.992
+          },
+          {
+            "word": "on",
+            "start": 10.29,
+            "end": 10.55,
+            "probability": 0.998
+          },
+          {
+            "word": "the",
+            "start": 10.55,
+            "end": 10.65,
+            "probability": 0.98
+          },
+          {
+            "word": "screen",
+            "start": 10.65,
+            "end": 10.95,
+            "probability": 0.913
+          },
+          {
+            "word": "shows",
+            "start": 10.95,
+            "end": 11.23,
+            "probability": 0.998
+          },
+          {
+            "word": "a",
+            "start": 11.23,
+            "end": 11.47,
+            "probability": 0.995
+          },
+          {
+            "word": "45",
+            "start": 11.47,
+            "end": 12.01,
+            "probability": 0.943
+          },
+          {
+            "word": "%",
+            "start": 12.01,
+            "end": 12.53,
+            "probability": 0.811
+          },
+          {
+            "word": "increase",
+            "start": 12.53,
+            "end": 12.91,
+            "probability": 0.991
+          },
+          {
+            "word": "in",
+            "start": 12.91,
+            "end": 13.23,
+            "probability": 0.999
+          },
+          {
+            "word": "video",
+            "start": 13.23,
+            "end": 13.53,
+            "probability": 0.975
+          },
+          {
+            "word": "engagement.",
+            "start": 13.53,
+            "end": 14.03,
+            "probability": 0.997
+          }
+        ],
+        "avg_logprob": -0.216,
+        "no_speech_prob": 0.012
+      },
+      {
+        "id": 3,
+        "start": 15.09,
+        "end": 19.67,
+        "text": "The key to retaining short form viewers is an irresistible hook in the first three seconds.",
+        "words": [
+          {
+            "word": "The",
+            "start": 15.09,
+            "end": 15.25,
+            "probability": 0.989
+          },
+          {
+            "word": "key",
+            "start": 15.25,
+            "end": 15.43,
+            "probability": 0.964
+          },
+          {
+            "word": "to",
+            "start": 15.43,
+            "end": 15.59,
+            "probability": 0.994
+          },
+          {
+            "word": "retaining",
+            "start": 15.59,
+            "end": 15.91,
+            "probability": 0.974
+          },
+          {
+            "word": "short",
+            "start": 15.91,
+            "end": 16.33,
+            "probability": 0.991
+          },
+          {
+            "word": "form",
+            "start": 16.33,
+            "end": 16.65,
+            "probability": 0.547
+          },
+          {
+            "word": "viewers",
+            "start": 16.65,
+            "end": 16.99,
+            "probability": 0.961
+          },
+          {
+            "word": "is",
+            "start": 16.99,
+            "end": 17.29,
+            "probability": 0.995
+          },
+          {
+            "word": "an",
+            "start": 17.29,
+            "end": 17.45,
+            "probability": 0.996
+          },
+          {
+            "word": "irresistible",
+            "start": 17.45,
+            "end": 18.05,
+            "probability": 0.91
+          },
+          {
+            "word": "hook",
+            "start": 18.05,
+            "end": 18.29,
+            "probability": 0.99
+          },
+          {
+            "word": "in",
+            "start": 18.29,
+            "end": 18.49,
+            "probability": 0.998
+          },
+          {
+            "word": "the",
+            "start": 18.49,
+            "end": 18.67,
+            "probability": 0.998
+          },
+          {
+            "word": "first",
+            "start": 18.67,
+            "end": 18.85,
+            "probability": 0.982
+          },
+          {
+            "word": "three",
+            "start": 18.85,
+            "end": 19.17,
+            "probability": 0.821
+          },
+          {
+            "word": "seconds.",
+            "start": 19.17,
+            "end": 19.67,
+            "probability": 0.996
+          }
+        ],
+        "avg_logprob": -0.216,
+        "no_speech_prob": 0.012
+      },
+      {
+        "id": 4,
+        "start": 20.59,
+        "end": 25.63,
+        "text": "Our pipeline processes speech with faster whisper and extracts keyframes with open CV.",
+        "words": [
+          {
+            "word": "Our",
+            "start": 20.59,
+            "end": 20.79,
+            "probability": 0.971
+          },
+          {
+            "word": "pipeline",
+            "start": 20.79,
+            "end": 21.23,
+            "probability": 0.864
+          },
+          {
+            "word": "processes",
+            "start": 21.23,
+            "end": 21.87,
+            "probability": 0.839
+          },
+          {
+            "word": "speech",
+            "start": 21.87,
+            "end": 22.25,
+            "probability": 0.959
+          },
+          {
+            "word": "with",
+            "start": 22.25,
+            "end": 22.55,
+            "probability": 0.998
+          },
+          {
+            "word": "faster",
+            "start": 22.55,
+            "end": 22.93,
+            "probability": 0.632
+          },
+          {
+            "word": "whisper",
+            "start": 22.93,
+            "end": 23.29,
+            "probability": 0.861
+          },
+          {
+            "word": "and",
+            "start": 23.29,
+            "end": 23.61,
+            "probability": 0.984
+          },
+          {
+            "word": "extracts",
+            "start": 23.61,
+            "end": 24.29,
+            "probability": 0.959
+          },
+          {
+            "word": "keyframes",
+            "start": 24.29,
+            "end": 24.67,
+            "probability": 0.905
+          },
+          {
+            "word": "with",
+            "start": 24.67,
+            "end": 24.97,
+            "probability": 0.998
+          },
+          {
+            "word": "open",
+            "start": 24.97,
+            "end": 25.29,
+            "probability": 0.392
+          },
+          {
+            "word": "CV.",
+            "start": 25.29,
+            "end": 25.63,
+            "probability": 0.829
+          }
+        ],
+        "avg_logprob": -0.216,
+        "no_speech_prob": 0.012
+      },
+      {
+        "id": 5,
+        "start": 25.82,
+        "end": 30.88,
+        "text": "Finally, we package everything cleanly for N8 and workflow integration.",
+        "words": [
+          {
+            "word": "Finally,",
+            "start": 25.82,
+            "end": 26.98,
+            "probability": 0.899
+          },
+          {
+            "word": "we",
+            "start": 27.5,
+            "end": 27.76,
+            "probability": 0.966
+          },
+          {
+            "word": "package",
+            "start": 27.76,
+            "end": 28.08,
+            "probability": 0.976
+          },
+          {
+            "word": "everything",
+            "start": 28.08,
+            "end": 28.58,
+            "probability": 0.991
+          },
+          {
+            "word": "cleanly",
+            "start": 28.58,
+            "end": 29.06,
+            "probability": 0.947
+          },
+          {
+            "word": "for",
+            "start": 29.06,
+            "end": 29.3,
+            "probability": 0.997
+          },
+          {
+            "word": "N8",
+            "start": 29.3,
+            "end": 29.68,
+            "probability": 0.699
+          },
+          {
+            "word": "and",
+            "start": 29.68,
+            "end": 29.94,
+            "probability": 0.581
+          },
+          {
+            "word": "workflow",
+            "start": 29.94,
+            "end": 30.26,
+            "probability": 0.86
+          },
+          {
+            "word": "integration.",
+            "start": 30.26,
+            "end": 30.88,
+            "probability": 0.992
+          }
+        ],
+        "avg_logprob": -0.366,
+        "no_speech_prob": 0.044
+      }
+    ]
+  },
+  "audio_wav_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\audio.wav",
+  "frames_directory": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames",
+  "total_frames_extracted": 17,
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp_seconds": 0.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0000_0000000ms.jpg",
+      "relative_path": "frame_0000_0000000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0
+    },
+    {
+      "frame_index": 60,
+      "timestamp_seconds": 2.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0001_0002000ms.jpg",
+      "relative_path": "frame_0001_0002000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.001
+    },
+    {
+      "frame_index": 120,
+      "timestamp_seconds": 4.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0002_0004000ms.jpg",
+      "relative_path": "frame_0002_0004000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0007
+    },
+    {
+      "frame_index": 180,
+      "timestamp_seconds": 6.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0003_0006000ms.jpg",
+      "relative_path": "frame_0003_0006000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0018
+    },
+    {
+      "frame_index": 195,
+      "timestamp_seconds": 6.5,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0004_0006500ms_scene.jpg",
+      "relative_path": "frame_0004_0006500ms_scene.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": true,
+      "scene_score": 0.0319
+    },
+    {
+      "frame_index": 240,
+      "timestamp_seconds": 8.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0005_0008000ms.jpg",
+      "relative_path": "frame_0005_0008000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0014
+    },
+    {
+      "frame_index": 300,
+      "timestamp_seconds": 10.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0006_0010000ms.jpg",
+      "relative_path": "frame_0006_0010000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.001
+    },
+    {
+      "frame_index": 360,
+      "timestamp_seconds": 12.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0007_0012000ms.jpg",
+      "relative_path": "frame_0007_0012000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.001
+    },
+    {
+      "frame_index": 420,
+      "timestamp_seconds": 14.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0008_0014000ms_scene.jpg",
+      "relative_path": "frame_0008_0014000ms_scene.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": true,
+      "scene_score": 0.0487
+    },
+    {
+      "frame_index": 480,
+      "timestamp_seconds": 16.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0009_0016000ms.jpg",
+      "relative_path": "frame_0009_0016000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0016
+    },
+    {
+      "frame_index": 540,
+      "timestamp_seconds": 18.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0010_0018000ms.jpg",
+      "relative_path": "frame_0010_0018000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0014
+    },
+    {
+      "frame_index": 600,
+      "timestamp_seconds": 20.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0011_0020000ms.jpg",
+      "relative_path": "frame_0011_0020000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0007
+    },
+    {
+      "frame_index": 660,
+      "timestamp_seconds": 22.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0012_0022000ms_scene.jpg",
+      "relative_path": "frame_0012_0022000ms_scene.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": true,
+      "scene_score": 0.2378
+    },
+    {
+      "frame_index": 720,
+      "timestamp_seconds": 24.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0013_0024000ms.jpg",
+      "relative_path": "frame_0013_0024000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0006
+    },
+    {
+      "frame_index": 780,
+      "timestamp_seconds": 26.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0014_0026000ms.jpg",
+      "relative_path": "frame_0014_0026000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0017
+    },
+    {
+      "frame_index": 840,
+      "timestamp_seconds": 28.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0015_0028000ms.jpg",
+      "relative_path": "frame_0015_0028000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.0013
+    },
+    {
+      "frame_index": 900,
+      "timestamp_seconds": 30.0,
+      "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0016_0030000ms.jpg",
+      "relative_path": "frame_0016_0030000ms.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_scene_change": false,
+      "scene_score": 0.001
+    }
+  ]
+}

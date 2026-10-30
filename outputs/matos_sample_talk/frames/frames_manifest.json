@@ -1,0 +1,172 @@
+[
+  {
+    "frame_index": 0,
+    "timestamp_seconds": 0.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0000_0000000ms.jpg",
+    "relative_path": "frame_0000_0000000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0
+  },
+  {
+    "frame_index": 60,
+    "timestamp_seconds": 2.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0001_0002000ms.jpg",
+    "relative_path": "frame_0001_0002000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.001
+  },
+  {
+    "frame_index": 120,
+    "timestamp_seconds": 4.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0002_0004000ms.jpg",
+    "relative_path": "frame_0002_0004000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0007
+  },
+  {
+    "frame_index": 180,
+    "timestamp_seconds": 6.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0003_0006000ms.jpg",
+    "relative_path": "frame_0003_0006000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0018
+  },
+  {
+    "frame_index": 195,
+    "timestamp_seconds": 6.5,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0004_0006500ms_scene.jpg",
+    "relative_path": "frame_0004_0006500ms_scene.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": true,
+    "scene_score": 0.0319
+  },
+  {
+    "frame_index": 240,
+    "timestamp_seconds": 8.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0005_0008000ms.jpg",
+    "relative_path": "frame_0005_0008000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0014
+  },
+  {
+    "frame_index": 300,
+    "timestamp_seconds": 10.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0006_0010000ms.jpg",
+    "relative_path": "frame_0006_0010000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.001
+  },
+  {
+    "frame_index": 360,
+    "timestamp_seconds": 12.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0007_0012000ms.jpg",
+    "relative_path": "frame_0007_0012000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.001
+  },
+  {
+    "frame_index": 420,
+    "timestamp_seconds": 14.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0008_0014000ms_scene.jpg",
+    "relative_path": "frame_0008_0014000ms_scene.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": true,
+    "scene_score": 0.0487
+  },
+  {
+    "frame_index": 480,
+    "timestamp_seconds": 16.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0009_0016000ms.jpg",
+    "relative_path": "frame_0009_0016000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0016
+  },
+  {
+    "frame_index": 540,
+    "timestamp_seconds": 18.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0010_0018000ms.jpg",
+    "relative_path": "frame_0010_0018000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0014
+  },
+  {
+    "frame_index": 600,
+    "timestamp_seconds": 20.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0011_0020000ms.jpg",
+    "relative_path": "frame_0011_0020000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0007
+  },
+  {
+    "frame_index": 660,
+    "timestamp_seconds": 22.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0012_0022000ms_scene.jpg",
+    "relative_path": "frame_0012_0022000ms_scene.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": true,
+    "scene_score": 0.2378
+  },
+  {
+    "frame_index": 720,
+    "timestamp_seconds": 24.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0013_0024000ms.jpg",
+    "relative_path": "frame_0013_0024000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0006
+  },
+  {
+    "frame_index": 780,
+    "timestamp_seconds": 26.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0014_0026000ms.jpg",
+    "relative_path": "frame_0014_0026000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0017
+  },
+  {
+    "frame_index": 840,
+    "timestamp_seconds": 28.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0015_0028000ms.jpg",
+    "relative_path": "frame_0015_0028000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.0013
+  },
+  {
+    "frame_index": 900,
+    "timestamp_seconds": 30.0,
+    "file_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Coding\\matos-video-intelligence\\outputs\\matos_sample_talk\\frames\\frame_0016_0030000ms.jpg",
+    "relative_path": "frame_0016_0030000ms.jpg",
+    "width": 1280,
+    "height": 720,
+    "is_scene_change": false,
+    "scene_score": 0.001
+  }
+]

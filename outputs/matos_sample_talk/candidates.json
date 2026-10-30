@@ -1,0 +1,143 @@
+{
+  "source_video": "matos_sample_talk",
+  "analysis_mode": "interactive_antigravity",
+  "min_duration": 15.0,
+  "max_duration": 35.0,
+  "target_duration": 25.0,
+  "total_candidates_found": 2,
+  "candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "start_time": 9.39,
+      "end_time": 30.88,
+      "duration": 21.49,
+      "headline": "Highlight: Notice that the chart on the screen shows a 45% increase ...",
+      "hook_summary": "Notice that the chart on the screen shows a 45% increase in video engagement.",
+      "transcript_excerpt": "Notice that the chart on the screen shows a 45% increase in video engagement. The key to retaining short form viewers is an irresistible hook in the first three seconds. Our pipeline processes speech with faster whisper and extracts keyframes with open CV. Finally, we package everything cleanly for N8 and workflow integration.",
+      "transcript_segment_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "observed_visual_evidence": {
+        "keyframe_timestamps": [
+          10.0,
+          12.0,
+          14.0,
+          16.0,
+          18.0,
+          20.0,
+          22.0,
+          24.0,
+          26.0,
+          28.0,
+          30.0
+        ],
+        "keyframe_paths": [
+          "frame_0006_0010000ms.jpg",
+          "frame_0007_0012000ms.jpg",
+          "frame_0008_0014000ms_scene.jpg",
+          "frame_0009_0016000ms.jpg",
+          "frame_0010_0018000ms.jpg",
+          "frame_0011_0020000ms.jpg",
+          "frame_0012_0022000ms_scene.jpg",
+          "frame_0013_0024000ms.jpg",
+          "frame_0014_0026000ms.jpg",
+          "frame_0015_0028000ms.jpg",
+          "frame_0016_0030000ms.jpg"
+        ],
+        "visual_elements_detected": [
+          "Slide 2 (t=9.39s-14.0s): Dark card layout titled 'AUDIENCE ENGAGEMENT ANALYSIS' with orange metric badge 'METRIC ID: ENG-942'.",
+          "Three visual metric cards displaying 'CONVERSION LIFT: +45.2%', 'AVERAGE RETENTION: 82.4%', and 'DROP-OFF REDUCTION: -64.0%'.",
+          "Slide 3 (t=14.0s-22.0s): Red alert banner 'CRITICAL ATTENTION ZONE' with cards defining 'HOOK WINDOW (0.0s - 3.0s)', 'OPTIMAL CLIP LENGTH (30 - 45 sec)', and 'VERTICAL RE-FRAME 9:16 (1080x1920)'.",
+          "Slide 4 (t=22.0s-30.88s): Architectural workflow diagram titled 'AUTONOMOUS CONTENT FACTORY PIPELINE' featuring 4 linked technical nodes with blue badge 'NODE WORKFLOW READY'."
+        ],
+        "unspoken_visual_facts": [
+          "Identifier tag 'METRIC ID: ENG-942' is visibly displayed on screen but omitted from spoken dialogue.",
+          "Engagement chart explicitly displays 'AVERAGE RETENTION: 82.4%' and 'DROP-OFF REDUCTION: -64.0%', whereas speech only references the 45% lift.",
+          "Retention optimization slide specifies exact target format 'VERTICAL RE-FRAME: 9:16 (1080x1920)' and 'OPTIMAL CLIP LENGTH: 30 - 45 sec', which are unmentioned in audio.",
+          "Architecture diagram details four discrete execution phases ('1. AUDIO SPEECH', '2. VISUAL FRAMES', '3. MULTIMODAL AI', '4. EXPORT BUNDLE') under 'Self-Hosted n8n Workflow Integration Schema'."
+        ]
+      },
+      "selection_rationale": {
+        "hook_score": 0.908,
+        "flow_coherence": 1.0,
+        "visual_engagement": 1.0,
+        "overall_score": 0.947,
+        "justification": "Clip spans 21.49s with a compelling opening hook (0.908), grammatical boundary closure (1.0), and 11 timestamped frames."
+      },
+      "confidence_score": 0.9,
+      "uncertainty_notes": "High visual diversity spanning 3 distinct presentation slides and 11 keyframes. Clear spoken hook in first 3 seconds.",
+      "approval_status": "approved",
+      "reviewed_by": "test_harness",
+      "review_timestamp": "2026-10-29T19:37:03.529577+00:00"
+    },
+    {
+      "candidate_id": "candidate_02",
+      "start_time": 0.0,
+      "end_time": 19.67,
+      "duration": 19.67,
+      "headline": "Highlight: Welcome to the Modo's Video Intelligence Demonstration",
+      "hook_summary": "Welcome to the Modo's Video Intelligence Demonstration.",
+      "transcript_excerpt": "Welcome to the Modo's Video Intelligence Demonstration. In this episode, we are testing automated local AI video analysis. Notice that the chart on the screen shows a 45% increase in video engagement. The key to retaining short form viewers is an irresistible hook in the first three seconds.",
+      "transcript_segment_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "observed_visual_evidence": {
+        "keyframe_timestamps": [
+          0.0,
+          2.0,
+          4.0,
+          6.0,
+          6.5,
+          8.0,
+          10.0,
+          12.0,
+          14.0,
+          16.0,
+          18.0
+        ],
+        "keyframe_paths": [
+          "frame_0000_0000000ms.jpg",
+          "frame_0001_0002000ms.jpg",
+          "frame_0002_0004000ms.jpg",
+          "frame_0003_0006000ms.jpg",
+          "frame_0004_0006500ms_scene.jpg",
+          "frame_0005_0008000ms.jpg",
+          "frame_0006_0010000ms.jpg",
+          "frame_0007_0012000ms.jpg",
+          "frame_0008_0014000ms_scene.jpg",
+          "frame_0009_0016000ms.jpg",
+          "frame_0010_0018000ms.jpg"
+        ],
+        "visual_elements_detected": [
+          "Slide 1 (t=0.0s-6.5s): Corporate title card 'MATOS VIDEO INTELLIGENCE' with green badge 'STATUS: PRODUCTION READY'.",
+          "Hardware compute specification card 'COMPUTE STACK: RTX 5070 / i7' with subtext 'Blackwell + 20-Core Ultra'.",
+          "Target architecture card 'LOCAL-FIRST: Zero-Cloud Dependence'.",
+          "Slide 2 (t=6.5s-14.0s): Engagement metrics dashboard with orange badge 'METRIC ID: ENG-942' and conversion cards."
+        ],
+        "unspoken_visual_facts": [
+          "Hardware stack 'RTX 5070 / i7 (Blackwell + 20-Core Ultra)' is explicitly documented on screen but never spoken in audio.",
+          "Production status badge 'STATUS: PRODUCTION READY' is visible on Slide 1 without audio mention.",
+          "System constraint 'Zero-Cloud Dependence' is highlighted under 'TARGET ARCHITECTURE' on Slide 1."
+        ]
+      },
+      "selection_rationale": {
+        "hook_score": 0.66,
+        "flow_coherence": 1.0,
+        "visual_engagement": 1.0,
+        "overall_score": 0.849,
+        "justification": "Clip spans 19.67s with a compelling opening hook (0.66), grammatical boundary closure (1.0), and 11 timestamped frames."
+      },
+      "confidence_score": 0.81,
+      "uncertainty_notes": "Introductory segment with strong brand presence. Visual transitions at t=6.5s and t=14.0s.",
+      "approval_status": "pending",
+      "reviewed_by": null,
+      "review_timestamp": null
+    }
+  ]
+}
